@@ -1,1 +1,1 @@
-This is me revising the git basics
+This is me revising the git basics. Now I'm further editing it after committing it.
